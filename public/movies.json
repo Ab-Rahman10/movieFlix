@@ -1,0 +1,102 @@
+[
+  {
+    "_id": 1,
+    "poster": "https://i.ibb.co/vXcPxHW/images.jpg",
+    "title": "Lifeboat",
+    "genre": "Drama",
+    "duration": "100",
+    "releaseYear": "2024",
+    "movieRating": 5,
+    "summary": "A mind-bending thriller where dreams are the battleground for corporate espionage."
+  },
+  {
+    "_id": 2,
+    "poster": "https://i.ibb.co/2d9GZjJ/image2.jpg",
+    "title": "Star Voyage",
+    "genre": "Sci-Fi",
+    "duration": "120",
+    "releaseYear": "2023",
+    "movieRating": 4,
+    "summary": "An epic journey across galaxies to save humanity from extinction."
+  },
+  {
+    "_id": 3,
+    "poster": "https://i.ibb.co/ZJjDcLp/image3.jpg",
+    "title": "Echoes",
+    "genre": "Mystery",
+    "duration": "90",
+    "releaseYear": "2022",
+    "movieRating": 4.5,
+    "summary": "A haunting mystery where the past and present collide."
+  },
+  {
+    "_id": 4,
+    "poster": "https://i.ibb.co/sJk6QJY/image4.jpg",
+    "title": "The Rival",
+    "genre": "Action",
+    "duration": "110",
+    "releaseYear": "2021",
+    "movieRating": 3.5,
+    "summary": "Two rivals must team up to take down a common enemy."
+  },
+  {
+    "_id": 5,
+    "poster": "https://i.ibb.co/MnmPgxH/image5.jpg",
+    "title": "Silent Waves",
+    "genre": "Romance",
+    "duration": "105",
+    "releaseYear": "2023",
+    "movieRating": 4.7,
+    "summary": "A heartfelt romance set against the backdrop of a small seaside town."
+  },
+  {
+    "_id": 6,
+    "poster": "https://i.ibb.co/YPKmMLp/image6.jpg",
+    "title": "Final Ascent",
+    "genre": "Adventure",
+    "duration": "130",
+    "releaseYear": "2020",
+    "movieRating": 5,
+    "summary": "A gripping tale of survival in the world's deadliest mountains."
+  },
+  {
+    "_id": 7,
+    "poster": "https://i.ibb.co/nk56qxD/image7.jpg",
+    "title": "Shadows of the Night",
+    "genre": "Horror",
+    "duration": "85",
+    "releaseYear": "2022",
+    "movieRating": 4,
+    "summary": "A chilling horror story of survival against unseen forces."
+  },
+  {
+    "_id": 8,
+    "poster": "https://i.ibb.co/7pL8Pyp/image8.jpg",
+    "title": "Quantum Leap",
+    "genre": "Sci-Fi",
+    "duration": "115",
+    "releaseYear": "2023",
+    "movieRating": 4.8,
+    "summary": "A scientist's groundbreaking discovery changes the course of humanity."
+  },
+  {
+    "_id": 9,
+    "poster": "https://i.ibb.co/CzPdRJ3/image9.jpg",
+    "title": "Crimson Tides",
+    "genre": "Thriller",
+    "duration": "100",
+    "releaseYear": "2021",
+    "movieRating": 3.8,
+    "summary": "A suspenseful thriller that will keep you on the edge of your seat."
+  },
+  {
+    "_id": 10,
+    "poster": "https://i.ibb.co/6Y5s3yL/image10.jpg",
+    "title": "Eternal Flame",
+    "genre": "Drama",
+    "duration": "120",
+    "releaseYear": "2024",
+    "movieRating": 5,
+    "summary": "An inspiring drama about resilience and the human spirit."
+  }
+]
