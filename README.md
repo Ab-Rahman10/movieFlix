@@ -2,6 +2,13 @@
 
 Explore the ultimate destination for movie lovers! Discover, learn, and immerse yourself in the world of cinema.
 
+## Screenshot
+(Add a clean screenshot of the project here if possible.)
+
+## Live Site URL  
+
+[MovieFlix](https://movie-flix-12316.web.app/)  
+
 ## Features
 
 - **Dynamic Banner**: Stunning slider showcasing action, romance, and comedy movies with engaging visuals and descriptions.
@@ -27,6 +34,9 @@ Explore the ultimate destination for movie lovers! Discover, learn, and immerse 
 ### Deployment  
 - **Firebase** – Hosting for the live site  
 
-## Live Site URL  
+## Dependencies Used
+- **Axios** – Handling API requests  
+- **Dotenv** – Managing environment variables  
+- **Cors** – Enabling cross-origin requests  
 
-[MovieFlix](https://movie-flix-12316.web.app/)  
+
