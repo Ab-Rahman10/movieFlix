@@ -12,10 +12,21 @@ Explore the ultimate destination for movie lovers! Discover, learn, and immerse 
 
 ## Technologies Used
 
-- **Frontend**: React.js, Swiper.js for sliders, and AOS for animations.
-- **Styling**: Tailwind CSS for a sleek and modern UI.
-- **Routing**: React Router for seamless navigation.
+### Frontend  
+- **React.js** – Component-based UI development  
+- **Swiper.js** – Smooth and interactive sliders  
+- **AOS (Animate on Scroll)** – Engaging animations  
+- **Tailwind CSS** – Modern and responsive styling  
+- **React Router** – Seamless navigation  
 
-## Live Site URL
+### Backend  
+- **Node.js** – Server-side JavaScript runtime  
+- **Express.js** – Lightweight web framework for handling API requests  
+- **MongoDB** – NoSQL database for storing movie data  
 
-https://movie-flix-12316.web.app/
+### Deployment  
+- **Firebase** – Hosting for the live site  
+
+## Live Site URL  
+
+[MovieFlix](https://movie-flix-12316.web.app/)  
