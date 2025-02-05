@@ -3,7 +3,8 @@
 Explore the ultimate destination for movie lovers! Discover, learn, and immerse yourself in the world of cinema.
 
 ## Screenshot
-(Add a clean screenshot of the project here if possible.)
+![image](https://github.com/user-attachments/assets/0b1acfbd-5dfe-4ba9-88e4-76cf93848f70)
+
 
 ## Live Site URL  
 
